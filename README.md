@@ -1,6 +1,8 @@
+### Integrantes
+1-Wellison da Silva Pereira 
 
-Wellison da Silva Pereira 
-Davi de oliveira Lima
-Gabriel Vitor Martins da Silva
+2-Davi de oliveira Lima
 
-# T.Iamo grupo
+3-Gabriel Vitor Martins da Silva
+### Grupo:
+# T.Iamo
