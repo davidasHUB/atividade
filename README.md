@@ -1,6 +1,6 @@
 
 Wellison da Silva Pereira 
 Davi de oliveira Lima
-gABRIEL vITOR mARTINS DA sILVA
+Gabriel Vitor Martins da Silva
 
 # T.Iamo grupo
